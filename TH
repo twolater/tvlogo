@@ -5,35 +5,29 @@
 #EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
 https://streamamg-fa.akamaiz.com/dookeela/amc/chunks.m3u8?nimblesessionid=40309184&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6MjI6NDAgUE0maGFzaF92YWx1ZT1SQ0t1eFJvNzczQUd1aUFaMCtra2R3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTEy
 
-
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",AXN TH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
 https://streamamg-fa.akamaiz.com/dookeela/axn/chunks.m3u8?nimblesessionid=40309228&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6MjM6MDYgUE0maGFzaF92YWx1ZT0wYnBYMEZKRU5idHdvT3hrdWU0RWFRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTEy
 
-
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="", Alure Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://streamamg-fa.akamaiz.com/dookeela/alure-channel/chunks.m3u8?nimblesessionid=40309046&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6MjE6NDMgUE0maGFzaF92YWx1ZT04SXpUUk1zcVhWVW5sdkF6R2t5cDFnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIy
-
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Animal Planet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
 https://streamamg-fa.akamaiz.com/dookeela/animal-planet/chunks.m3u8?nimblesessionid=40309279&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6MjM6MzcgUE0maGFzaF92YWx1ZT1ZVGVOYkwxRUxKNW1UT05XazRwTDRRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIy
 
-
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Animal Show
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
 https://streamamg-fa.akamaiz.com/dookeela/animalshow/chunks.m3u8?nimblesessionid=40309326&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6MjQ6MTAgUE0maGFzaF92YWx1ZT1TbFZYcEhIWGFETWdkL1o0dWNndGd3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE5
 
-
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Animax | Singapore
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
 https://streamamg-fa.akamaiz.com/dookeela/animax/chunks.m3u8?nimblesessionid=40309361&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6MjQ6MzkgUE0maGFzaF92YWx1ZT00eGhmbGNuT0ZrOTVXUDdKMUhjOWZ3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE1
-
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Asian Food Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
@@ -45,60 +39,1047 @@ https://streamamg-fa.akamaiz.com/dookeela/afn/chunks.m3u8?nimblesessionid=403094
 #EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
 https://streamamg-fa.akamaiz.com/dookeela/3bbasian/chunks.m3u8?nimblesessionid=40308327&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6MTU6MDggUE0maGFzaF92YWx1ZT1tQWRmR0p1UUlJcXVsb3V2d09WTk1RPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE3
 
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Astro Arena
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/astroarena/chunks.m3u8?nimblesessionid=40309879&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6Mjk6NDkgUE0maGFzaF92YWx1ZT14L2FKQmVoNDRSZjBMUjJXTVRWMkFnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE5
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Astro Arena 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/astroarena2/chunks.m3u8?nimblesessionid=40309956&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6MzA6MjcgUE0maGFzaF92YWx1ZT1MTVg5RTU0UTFXRWxDa0lMa3lUWm9BPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIw
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Astro Arena Bola
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/astroarenabola/chunks.m3u8?nimblesessionid=40310076&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6MzE6MjUgUE0maGFzaF92YWx1ZT1Qbm9WbkN5c1Z5QTROT2VCSDRrUTlBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIz
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Astro Arena Bola 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/astroarenabola2/chunks.m3u8?nimblesessionid=40310163&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6MzI6MTIgUE0maGFzaF92YWx1ZT10NG5wMUwxZVE1S1Z2dlRxTDhGaDlRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTI0
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Astro Badminton
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/astrobadminton/chunks.m3u8?nimblesessionid=40310259&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6MzI6NTQgUE0maGFzaF92YWx1ZT0zZ2F6OXl3U2pNaFVBWWtNVjNUbTB3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIz
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Astro Ceria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/astroceria/chunks.m3u8?nimblesessionid=40310381&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6MzM6NTIgUE0maGFzaF92YWx1ZT1pdVNVamlISWFya00wVjhueHRFOUZRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE5
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Astro Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/astrofootball/chunks.m3u8?nimblesessionid=40310452&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6MzQ6MjUgUE0maGFzaF92YWx1ZT1FRFJXa1hnZUVWNXJVdHc2dEovU2VBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIy
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Astro Grandstand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/astrograndstand/chunks.m3u8?nimblesessionid=40310501&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6MzQ6NTYgUE0maGFzaF92YWx1ZT1zVERWdUYxT1hHck82d05TTUhxWXNBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTI0
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Astro Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/astropremierleague/chunks.m3u8?nimblesessionid=40310583&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6MzU6MzMgUE0maGFzaF92YWx1ZT1vK3pKUWp5clE0TG4vUEhFRkt1Z0dnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTI3
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Astro Premier League 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/astropremierleague2/chunks.m3u8?nimblesessionid=40310653&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6MzY6MDEgUE0maGFzaF92YWx1ZT0yWkdkcEM5WWFsam9LMXFXamNWa2tRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTI4
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Astro Sports Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/astrosportsplus/chunks.m3u8?nimblesessionid=40310717&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6MzY6NDAgUE0maGFzaF92YWx1ZT1hQmVxdUpUKzJkZGxPTWdjTXlvRGhBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTI0
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",BBC Earth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/bbc-earth/chunks.m3u8?nimblesessionid=40310805&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6Mzc6MzAgUE0maGFzaF92YWx1ZT0wOTZPMHR0WUY4eVJHaGsrTmcxcjB3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE4
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",BBC Lifestyle
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/bbc-lifestyle/chunks.m3u8?nimblesessionid=40310911&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6Mzg6MTAgUE0maGFzaF92YWx1ZT1mMVd6M0dCRmZ0azFyTHBDdVorVS9RPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIy
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",BBC News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/bbc-news/chunks.m3u8?nimblesessionid=40311003&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6Mzg6NDMgUE0maGFzaF92YWx1ZT1nZDU5c0tqQVpiNlFwM0NpQjNSMkV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE3
+
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",BT Sport 1 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/btsport1/chunks.m3u8?nimblesessionid=40311208&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6NDA6MjIgUE0maGFzaF92YWx1ZT1uemduMmE4Q3ZFck4zQ2RWcDlEM2h3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE3
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",BT Sport 2 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/btsport2/chunks.m3u8?nimblesessionid=40311268&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6NDA6NTYgUE0maGFzaF92YWx1ZT1hemVjaytHWlIyRmkvY3d5MXN5UTlnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE3
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",BT Sport 3 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/btsport3/chunks.m3u8?nimblesessionid=40311309&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6NDE6MjAgUE0maGFzaF92YWx1ZT1JR21zVHJzQ3VSL1BjK2tyUEtyODlBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE3
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",BT Sport 4 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/btsport4/chunks.m3u8?nimblesessionid=40311376&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6NDE6NTQgUE0maGFzaF92YWx1ZT14TTZVV0NJbHRxL1MvckFhV2VOTkV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE3
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Boomerang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/boomerang/chunks.m3u8?nimblesessionid=40311497&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6NDI6NTkgUE0maGFzaF92YWx1ZT1NeWovU2VtOTg0SVRmemJKblMrcHlnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE4
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",CBS Sports Network [USA]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/cbssports/chunks.m3u8?nimblesessionid=40311569&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6NDM6MzQgUE0maGFzaF92YWx1ZT1CZ1lVLzNkMUlIZytQbEtXakZnNnhnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE4
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",CBeebies BBC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/cbeebies/chunks.m3u8?nimblesessionid=40311661&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6NDQ6MjMgUE0maGFzaF92YWx1ZT1Hcm11SnRGdGVmNDBUY2d0OGNyd2VBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE3
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",CCTV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/cctv4/chunks.m3u8?nimblesessionid=40311801&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6NDU6NDIgUE0maGFzaF92YWx1ZT11ZTdPcFR5amE2WGQ2Y0owUkFwRlJBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE0
+
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",CINEMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/cinemax/chunks.m3u8?nimblesessionid=40311899&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6NDY6MjkgUE0maGFzaF92YWx1ZT0xamFBWmpoMzN3Ylk0TWlFYzdVYXdnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE2
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",CNA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/cna/chunks.m3u8?nimblesessionid=40311949&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6NDc6MDEgUE0maGFzaF92YWx1ZT0yQ0FuY3lpSDM1cFo3WlR1VSttbmtBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTEy
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",CNBC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/cnbc/chunks.m3u8?nimblesessionid=40312015&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6NDc6MzUgUE0maGFzaF92YWx1ZT1sT1EwYlZ4Z01CL2FhSHlsbUFFMUR3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTEz
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",CNN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/cnn/chunks.m3u8?nimblesessionid=40312106&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6NDg6MDAgUE0maGFzaF92YWx1ZT1aejVLTlhiWGVrd1Azb3VnV1RVYit3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTEy
+
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Canal 11 Protugal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/canal11pt/chunks.m3u8?nimblesessionid=40312229&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6NDg6MzggUE0maGFzaF92YWx1ZT12WndFTk5qWlNFTm40VTBwVjJvdXNnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE4
+
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Cartoon Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/cartoon-network/chunks.m3u8?nimblesessionid=40312307&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6NDk6MTQgUE0maGFzaF92YWx1ZT1QdzlrWkYzRUQrTVc5R3dvc2dndDJ3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTI0
+
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Crime + Investigation
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/crime-investigation/chunks.m3u8?nimblesessionid=40312360&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6NDk6NDMgUE0maGFzaF92YWx1ZT1ZcXByQlJQOWFzQVhHMmJQbUlxUUZBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTI4
+
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",DAZN 1 Germany
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/dazn1/chunks.m3u8?nimblesessionid=40312409&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6NTA6MTEgUE0maGFzaF92YWx1ZT1BV3lRdU1jZFJnTytIK0UzSGpncmNBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE0
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",DAZN 2 Germany
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/dazn2/chunks.m3u8?nimblesessionid=40312562&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6NTE6MjcgUE0maGFzaF92YWx1ZT1rQlRCYjVzekZoTVVQd1ZXcFZUc2NRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE0
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",DAZN 1 | Spain
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/dazn1es/chunks.m3u8?nimblesessionid=40312480&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6NTA6NDQgUE0maGFzaF92YWx1ZT1jcjhNWmQycG1zKytPZmcxT0ZJSlNnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE2
 
 
 
 
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",DAZN 2 | Spain
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/dazn2es/chunks.m3u8?nimblesessionid=40312621&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6NTE6NTYgUE0maGFzaF92YWx1ZT14SUdvYWprNXgvaWl3c0FpVXVRdFJBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE2
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",DAZN 3 | Spain
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/dazn3es/chunks.m3u8?nimblesessionid=40312688&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6NTI6MjYgUE0maGFzaF92YWx1ZT1XaGJ3UFdDaFRMdTROVmI2R2RuM3JBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE2
 
 
 
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",DAZN 4 | Spain
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/dazn4es/chunks.m3u8?nimblesessionid=40312751&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6NTI6NTUgUE0maGFzaF92YWx1ZT00OG84U0dLbDEwOE1KU2xWNEhnRGNBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE2
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",DAZN F1 (Spain)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/daznf1/chunks.m3u8?nimblesessionid=40312824&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6NTM6MjUgUE0maGFzaF92YWx1ZT1wODVsYlpCSWE0RzdCc0NaRGRPNTZ3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE1
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",DMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/dmax/chunks.m3u8?nimblesessionid=40312921&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6NTQ6MTcgUE0maGFzaF92YWx1ZT1kcEZscm9ya0Y2MWh0aGNkSXdtYTFBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTEz
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Diema Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/diemasport1/chunks.m3u8?nimblesessionid=40312966&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6NTQ6NDcgUE0maGFzaF92YWx1ZT1pdkFod0ZoYVRzUGZsMEhhT0hWbk9BPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIw
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Discovery
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/discovery/chunks.m3u8?nimblesessionid=40313065&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6NTU6MzkgUE0maGFzaF92YWx1ZT1KQThTamlRSEFZU3dQNzF4YVRnNzdRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE4
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Discovery Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/discovery-asia/chunks.m3u8?nimblesessionid=40313153&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6NTY6MDggUE0maGFzaF92YWx1ZT1mV1Y5QUN2eVBVRGx6UUdhWFFIdEVBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIz
 
 
 
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Disney XD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/disneyxd/chunks.m3u8?nimblesessionid=40313249&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6NTc6MDEgUE0maGFzaF92YWx1ZT1lcStFenEwd25jTU1sUkNyNDVsTExBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE3
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",DreamWorks
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/dreamworks/chunks.m3u8?nimblesessionid=40313334&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6NTc6NDkgUE0maGFzaF92YWx1ZT1LcHhGejFnZFUxOTZrbTU4RzRKUldBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE5
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",ESPN 1 Netherlands
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/foxsports1nl/chunks.m3u8?nimblesessionid=40313374&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6NTg6MjQgUE0maGFzaF92YWx1ZT1XV1NuZmwvclB6Ym9lRE1ZQUhpb2ZRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIx
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",ESPN 2 Netherlands
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/foxsports2nl/chunks.m3u8?nimblesessionid=40313426&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6NTg6NTQgUE0maGFzaF92YWx1ZT1NVUlPZmVnMFNnMFNObEQ3Y3p0WFJBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIx
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",ESPN 3 Netherlands
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/foxsports3nl/chunks.m3u8?nimblesessionid=40313482&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6NTk6MjggUE0maGFzaF92YWx1ZT1WeUQ3ZFBSR1VGWVRFTzZIUGtlR1V3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIx
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",ESPN 4 Netherlands
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/foxsports4nl/chunks.m3u8?nimblesessionid=40313532&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MDA6MDYgUE0maGFzaF92YWx1ZT1pL000b1pORnJnUjRFUzVrSFphN2RnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIx
 
 
 
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Eleven Pro League 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/daznproleague1/chunks.m3u8?nimblesessionid=40313574&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MDA6MzggUE0maGFzaF92YWx1ZT1VMUtjZWRVRmd3TmRmaVNqQVBKQ2hRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIz
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Euro News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/euronews/chunks.m3u8?nimblesessionid=40313628&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MDE6MTMgUE0maGFzaF92YWx1ZT1XSTltMjJiK2VLRjQ2ZFZHZm5raVFnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE3
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Eurosport 1 | Spain
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/eurosport1es/chunks.m3u8?nimblesessionid=40313707&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MDI6MDEgUE0maGFzaF92YWx1ZT1IS2FHckU2c0NPSFIrL0l6ME5WOThnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIx
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Eurosport 2 | Spain
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/eurosport2es/chunks.m3u8?nimblesessionid=40313767&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MDI6NDAgUE0maGFzaF92YWx1ZT11U1o2ZjJlY3RDbWNJTFNBQ2sxUFFBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIx
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",FIFA Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/fifaplus/chunks.m3u8?nimblesessionid=40313821&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MDM6MTAgUE0maGFzaF92YWx1ZT1WQUY1RHVtYmx0VFpvZXRsQ2pVMXlBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE3
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",FOX Sports 1 USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/foxsports1usa/chunks.m3u8?nimblesessionid=40313870&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MDM6NDIgUE0maGFzaF92YWx1ZT1WaHdBbWRWUVFpWXd5MldiR3dVZlFnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIy
 
 
 
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",FOX Sports 2 USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/foxsports2usa/chunks.m3u8?nimblesessionid=40313941&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MDQ6MTcgUE0maGFzaF92YWx1ZT1mU0dXWWwrOEY5WG92UzlJNnlRNVJnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIy
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Fight Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/fight-sports/chunks.m3u8?nimblesessionid=40314000&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MDQ6NTYgUE0maGFzaF92YWx1ZT1kYUVKd1V2MWRWbzU4eTdxRHJDaXJBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIx
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Food Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/foodnetwork/chunks.m3u8?nimblesessionid=40314043&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MDU6MzAgUE0maGFzaF92YWx1ZT1xRHI3R0ZienZ4amtGcWdpWXJPUDVnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIw
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Golf Channel Thailand HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/golfchannel/chunks.m3u8?nimblesessionid=40314096&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MDY6MDQgUE0maGFzaF92YWx1ZT1YWktxRjN2aGFvUy9NRUZ1RmZVeE5BPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIw
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/hbo/chunks.m3u8?nimblesessionid=40314148&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MDY6NDEgUE0maGFzaF92YWx1ZT1tS3JHN2FlT3hzMVdhVVl0SHhyWlNnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTEy
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",HBO Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/hbo-family/chunks.m3u8?nimblesessionid=40314192&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MDc6MTEgUE0maGFzaF92YWx1ZT1hbXhQamQxcDRWRGFMYkVKK3VJTkJ3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE5
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",HBO Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/hbo-hits/chunks.m3u8?nimblesessionid=40314245&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MDc6MzggUE0maGFzaF92YWx1ZT05TzhaV3F0TEQ4ZDNBZ2x5V0R6cE5nPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE3
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",HBO Signature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/hbo-signature/chunks.m3u8?nimblesessionid=40314297&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MDg6MTIgUE0maGFzaF92YWx1ZT1xK29uNE5Na0xXWEptdExwMll6akNnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIy
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/hits/chunks.m3u8?nimblesessionid=40314333&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MDg6MzkgUE0maGFzaF92YWx1ZT14QzQwZFZLdjFENDlvd08zZEhKTkt3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTEz
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",HITS MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/hits-movies/chunks.m3u8?nimblesessionid=40314408&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MDk6MjkgUE0maGFzaF92YWx1ZT1SZFZrdWlWWWlCd2Vib2dXS1o3bFdnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIw
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",HITS NOW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/hitsnow/chunks.m3u8?nimblesessionid=40314453&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MTA6MDEgUE0maGFzaF92YWx1ZT1yeFlJaG4vcnBpUVppWm9UbVlkeFp3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE2
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",HUB Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/hubsports2/chunks.m3u8?nimblesessionid=40314506&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MTA6MzcgUE0maGFzaF92YWx1ZT1ySzR5TnZQNTIyZyttMkFvOGpYTERBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE5
 
 
 
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/history/chunks.m3u8?nimblesessionid=40314550&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MTE6MDkgUE0maGFzaF92YWx1ZT1xVkNST1Q0Z2l2WitoaTdHd052WDl3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE2
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Hunan TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/hunan-tv-hd/chunks.m3u8?nimblesessionid=40314597&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MTE6NDQgUE0maGFzaF92YWx1ZT1WRnE1KzRtRy82Y0dMb1RmZ3lYMzBBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIw
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",L1Max
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/l1max/chunks.m3u8?nimblesessionid=40314657&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MTI6MjQgUE0maGFzaF92YWx1ZT1USnErWmFLcXdsYWtoOXQ3ZDB0bk1nPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE0
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",LaLiga Hypermotion TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/laliga-hypermotion-tv/chunks.m3u8?nimblesessionid=40314727&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MTM6MjcgUE0maGFzaF92YWx1ZT1UTUhhNGRURG9yMWF2NkhPNkRvdnpnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTMw
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",LaLiga Hypermotion TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/laliga-hypermotion-tv-2/chunks.m3u8?nimblesessionid=40314761&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MTM6NTcgUE0maGFzaF92YWx1ZT1oa1pPcTJiOUpnNDIxbjV4YmR6c3NBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTMy
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",MLB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/mlb/chunks.m3u8?nimblesessionid=40314852&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MTU6MDkgUE0maGFzaF92YWx1ZT03TEc3YURmVnp2MWJLVVF6MG1KUE5RPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTEy
 
 
 
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",MONO29 (โมโน 29)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/mono29/chunks.m3u8?nimblesessionid=40314916&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MTU6NTQgUE0maGFzaF92YWx1ZT1EZlF2QUFpV2NLV1RUbmlXenhqbjhRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE1
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",MONO29 Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/mono29plus/chunks.m3u8?nimblesessionid=40314975&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MTY6MjggUE0maGFzaF92YWx1ZT1BZDQ1a0pSVnozSVlQTTR4MTltdXRRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE5
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",MTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/mtv/chunks.m3u8?nimblesessionid=40315025&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MTc6MDMgUE0maGFzaF92YWx1ZT1sbFZDYytvV3pGeUxHNHJGMWthSXh3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTEy
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",MUTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/mutv/chunks.m3u8?nimblesessionid=40315078&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MTc6MzggUE0maGFzaF92YWx1ZT1RaXhYc0hZRDlyelhWQ0xGUXlGKzJBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTEz
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Mono 29 Music station
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/mono-29-music-station/chunks.m3u8?nimblesessionid=40315136&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MTg6MTUgUE0maGFzaF92YWx1ZT12Tm1tUmE4aXpCRm83U0hVOXlzOGZRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTMw
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",MySci
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/mysci/chunks.m3u8?nimblesessionid=40315219&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MTk6MTAgUE0maGFzaF92YWx1ZT1UT2dkL0lIR2w0YVhjWVVPMWRLakxRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE0
 
 
 
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",NBA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/nba/chunks.m3u8?nimblesessionid=40315277&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MTk6NDcgUE0maGFzaF92YWx1ZT0zc1ZpMlpDOExiSlkxUmY1VC9PV0R3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTEy
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",NBT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/nbt2hd/chunks.m3u8?nimblesessionid=40315352&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MjA6MjcgUE0maGFzaF92YWx1ZT0xZXZoc3NXbnpwc251RENVQmRuUFBnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE1
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",NFL Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/nfl/chunks.m3u8?nimblesessionid=40315411&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MjE6MDggUE0maGFzaF92YWx1ZT12aWRubDZiRDNLUlhydTdvMWtjalhRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTEy
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Nat Geo WILD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/nat-geo-wild/chunks.m3u8?nimblesessionid=40315466&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MjE6NTEgUE0maGFzaF92YWx1ZT10b3BkSDU1N1FuK3ROY2x0SVFLK3R3PT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIx
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/national-geographic/chunks.m3u8?nimblesessionid=40315521&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MjI6MjkgUE0maGFzaF92YWx1ZT11RDdUdUFtcWRCMGV2bk1IKytGVS9nPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTI4
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Nick Jr.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/nickjr/chunks.m3u8?nimblesessionid=40315591&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MjM6MDUgUE0maGFzaF92YWx1ZT1xZ01mVnlLU2xKY2hhV2U2OU15a21BPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE1
 
 
 
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/nickelodeon/chunks.m3u8?nimblesessionid=40315624&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MjM6NDAgUE0maGFzaF92YWx1ZT0zSGpEZXRnQWJVUTNDVUgrWlpxSWZBPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIw
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Paramount Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/paramount-network/chunks.m3u8?nimblesessionid=40315698&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MjQ6NDEgUE0maGFzaF92YWx1ZT12eFlZbmpEWEZEd2JpNExMcGpQMml3PT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTI2
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Premiere
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/pfc/chunks.m3u8?nimblesessionid=40315765&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MjU6MzUgUE0maGFzaF92YWx1ZT1EbGhicjlvTXpUK3VmYm45K0phYXNRPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTEy
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Premiere 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/pfc2/chunks.m3u8?nimblesessionid=40315803&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MjY6MDYgUE0maGFzaF92YWx1ZT1KSXYwYnBLSEtRSmFOdytIejlkM2Z3PT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTEz
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Premiere 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/pfc5/chunks.m3u8?nimblesessionid=40315833&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MjY6MzggUE0maGFzaF92YWx1ZT1CNGttd1oxWFVhaEhEMXZsR3BxNTBRPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTEz
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Premiere 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/pfc6/chunks.m3u8?nimblesessionid=40315863&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6Mjc6MDggUE0maGFzaF92YWx1ZT1kTk1IVGQ2US9ENmVibkhxZnBTOE1RPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTEz
 
 
 
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Premiere 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/pfc7/chunks.m3u8?nimblesessionid=40315897&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6Mjc6MzcgUE0maGFzaF92YWx1ZT1BT2p2YTVBMEkrbjFGVkVXVHFJVjV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTEz
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Prima Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/primasport1/chunks.m3u8?nimblesessionid=40315978&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6Mjg6NDggUE0maGFzaF92YWx1ZT0xRG55Z0lqOGhkMEFxajR0ZUp0RXdRPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIw
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Prima Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/primasport2/chunks.m3u8?nimblesessionid=40316069&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6Mjk6NTMgUE0maGFzaF92YWx1ZT1BYllLaVhNR2p0VlpiQkRUZEt3U0NBPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIw
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Prima Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/primasport3/chunks.m3u8?nimblesessionid=40316118&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MzA6MTkgUE0maGFzaF92YWx1ZT1Sc2hVWm9lalFFTkJRdHlndHlpQkh3PT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIw
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Prima Sport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/primasport5/chunks.m3u8?nimblesessionid=40316180&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MzA6NTcgUE0maGFzaF92YWx1ZT1nZVRIZzBhWGtkU2c2ZkpCYXh3MUNRPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIw
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",ROCK Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/rock-action/chunks.m3u8?nimblesessionid=40316249&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MzE6NDMgUE0maGFzaF92YWx1ZT1IcnFxWlEwZWxkR3RPYnp3aU1VTWhRPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIw
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",ROCK ENTERTAINMENT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/rock-entertainment/chunks.m3u8?nimblesessionid=40316298&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MzI6MjUgUE0maGFzaF92YWx1ZT1KbEtscGZpREZQVlNKRnlxa25rd2RRPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTI3
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",RUSH Stories
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/rush-stories/chunks.m3u8?nimblesessionid=40316331&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MzI6NTUgUE0maGFzaF92YWx1ZT14NzZiY2dnZ2RtUVdYeFkxeEdNcEF3PT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIx
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",SPL01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/spl01/chunks.m3u8?nimblesessionid=40316380&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MzM6MzEgUE0maGFzaF92YWx1ZT1NSXM0SGRvamEvc25NdGtLN1lHVzRRPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE0
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",SPL02
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/spl02/chunks.m3u8?nimblesessionid=40316422&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MzQ6MDAgUE0maGFzaF92YWx1ZT1NY3NJRFllV3d2TlIzYjJJYnlqRFV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE0
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",SPOTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/spotv/chunks.m3u8?nimblesessionid=40316447&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MzQ6MjggUE0maGFzaF92YWx1ZT1mSklldk5ycnllTGZiZGErY0NlZitnPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE0
 
 
 
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",SPOTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/spotv2/chunks.m3u8?nimblesessionid=40316483&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MzQ6NTggUE0maGFzaF92YWx1ZT1pdkEwdUc3ZjdZcWN4UzhTcXVTWS9BPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE1
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",SSC 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/ssc1/chunks.m3u8?nimblesessionid=40316514&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MzU6MjkgUE0maGFzaF92YWx1ZT1rU0tCbXY2b1RUTGVxd2lrNnduV0NRPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTEz
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",SSC EXTRA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/sscextra1/chunks.m3u8?nimblesessionid=40316555&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MzY6MDEgUE0maGFzaF92YWx1ZT1aVVp5WjhMb2p6SUpjUlduSGt1anNRPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE4
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",SSC EXTRA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/sscextra2/chunks.m3u8?nimblesessionid=40316597&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6MzY6MzAgUE0maGFzaF92YWx1ZT1zY0tZWlNYK2VFaW9BbHh1dHQxM2lnPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE4
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Sky Sports Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/skysportsaction/chunks.m3u8?nimblesessionid=40316729&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6Mzc6NTggUE0maGFzaF92YWx1ZT1ldzc4cFpYSzI3Y0F1cEN1VEVEUXJBPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTI0
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Sky Sports Cricket | UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/skysportscricket/chunks.m3u8?nimblesessionid=40316793&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6Mzg6MzEgUE0maGFzaF92YWx1ZT0yVEZRU2t6WE5GYWoxdml1OWZDWkRBPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTI1
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Sky Sports F1 | UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/skysportsf1/chunks.m3u8?nimblesessionid=40316837&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6Mzk6MDEgUE0maGFzaF92YWx1ZT1qaXdNN3lWTDhSQUoxazNBcGZyVjF3PT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIw
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Sky Sports Football UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/skysportfootball/chunks.m3u8?nimblesessionid=40316885&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6Mzk6MzAgUE0maGFzaF92YWx1ZT1HMnovUWtSc2lIWGZNbldlZkFvTlh3PT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTI1
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Sky Sports Golf | UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/skysportsgolf/chunks.m3u8?nimblesessionid=40316933&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6NDA6MDEgUE0maGFzaF92YWx1ZT0vNFZUTitXZ3BDdkpadkpyd1JRR3l3PT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIy
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Sky Sports Main Event UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/skysportmainevent/chunks.m3u8?nimblesessionid=40316978&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6NDA6MzMgUE0maGFzaF92YWx1ZT03MlBxVUVCY2lYQzNPT2RzNXpUdmFnPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTI2
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Sky Sports Mix | UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/skysportsmix/chunks.m3u8?nimblesessionid=40317015&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6NDE6MDkgUE0maGFzaF92YWx1ZT1mbzdiWmx3UDZLNGFuQmJCZEdMWTZBPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIx
 
 
 
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Sky Sports News | UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/skysportsnews/chunks.m3u8?nimblesessionid=40317048&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6NDE6MzggUE0maGFzaF92YWx1ZT1mL2JBc3U1RU5LQmo2RW1PUjhUQWpnPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIy
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Sky Sports Premier League UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/skysportepl/chunks.m3u8?nimblesessionid=40317076&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6NDI6MDUgUE0maGFzaF92YWx1ZT1SNG45RHQ1VUFSUzVYR2ZKNDBEVGV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIw
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Sky Sports Racing | UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/skysportsracing/chunks.m3u8?nimblesessionid=40317112&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6NDI6MzkgUE0maGFzaF92YWx1ZT1ZeDQ0QUEzUkNYQ1p2eklOVzhBcjhBPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTI0
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Sky Sports Tennis | UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/skysportstennis/chunks.m3u8?nimblesessionid=40317162&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6NDM6MjAgUE0maGFzaF92YWx1ZT1nNyt0YUFzS2xYT0lKTldrSkdzQUd3PT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTI0
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Sport TV +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/sporttvplus/chunks.m3u8?nimblesessionid=40317221&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6NDQ6MDMgUE0maGFzaF92YWx1ZT1aMWdmV3dnTVA3OFVHQkxLK0FueGRBPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIw
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Sport TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/sporttv1/chunks.m3u8?nimblesessionid=40317248&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6NDQ6MzIgUE0maGFzaF92YWx1ZT1vdHY4ZmtzRENVZ2NqcnRsNmFncG5RPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE3
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Sport TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/sporttv2/chunks.m3u8?nimblesessionid=40317269&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6NDQ6NTggUE0maGFzaF92YWx1ZT1pQ0J6b2gyRC9OL3NORks2dmVhNlJRPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE3
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Sport TV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/sporttv3/chunks.m3u8?nimblesessionid=40317296&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6NDU6MjUgUE0maGFzaF92YWx1ZT1FRXNXY3Z2K3NVZC9Ka1FNSTdDK01nPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE3
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Sport TV 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/sporttv4/chunks.m3u8?nimblesessionid=40317324&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6NDU6NTMgUE0maGFzaF92YWx1ZT1IenVNSE0waTQwbStmMUg0aHFKRERRPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE3
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Sport TV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/sporttv5/chunks.m3u8?nimblesessionid=40317361&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6NDY6MjYgUE0maGFzaF92YWx1ZT1KSXMrWm9Rbm5FeUVNYmdEUGtZcFJ3PT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE3
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Sport TV 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/sporttv6/chunks.m3u8?nimblesessionid=40317384&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6NDY6NTIgUE0maGFzaF92YWx1ZT1mSjFWNkIybXZReGVQUU9RSTNtcm5BPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE3
 
 
 
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Sport TV 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/sporttv7/chunks.m3u8?nimblesessionid=40317425&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6NDc6MzEgUE0maGFzaF92YWx1ZT14cFIycG5YN2lBWUtpaVl1dENuaUlBPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE3
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Sports One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/3bbsports1/chunks.m3u8?nimblesessionid=40317496&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6NDg6MjIgUE0maGFzaF92YWx1ZT1HTzRhL2tiSXdQVHFnRkthb2JrN3J3PT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE5
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",T Sports 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/tsports7/chunks.m3u8?nimblesessionid=40317529&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6NDg6NTMgUE0maGFzaF92YWx1ZT1ORkhUTkNiN1JMTEI4UGttRDFOTzdRPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE3
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",TLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/tlc/chunks.m3u8?nimblesessionid=40317594&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6NDk6NDggUE0maGFzaF92YWx1ZT1UK0VWUm5VSWJnck1ZRUdTQUdzT2dRPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTEy
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",TV4 Fotboll (Sweden)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/tv4fotboll/chunks.m3u8?nimblesessionid=40317715&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6NTE6NDkgUE0maGFzaF92YWx1ZT16ODR6K1ZCWjNGSmpEdzIwRE0zOGJRPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE5
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",TVB CLASSIC HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/tvbclassichd/chunks.m3u8?nimblesessionid=40317766&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6NTI6NDQgUE0maGFzaF92YWx1ZT1VcmpuTFpYZ1RxOGxOY2NBQnZkMmtnPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIx
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",True 4 U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/true4u/chunks.m3u8?nimblesessionid=40317791&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6NTM6MTggUE0maGFzaF92YWx1ZT1lQm42bUJxbVN2SjRVbnRvaWF3Y3pBPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE1
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",True Asian More
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/trueasianmore/chunks.m3u8?nimblesessionid=40317833&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6NTQ6MDUgUE0maGFzaF92YWx1ZT1Ud3J6eXBPdWtLdHkxMVc5a3RLUk9RPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIy
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",True Explore Life
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/trueexplorelife/chunks.m3u8?nimblesessionid=40317864&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6NTQ6NDAgUE0maGFzaF92YWx1ZT14Q3RDSy8rRTgvMWpXTHBoTDZ4eURRPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTI0
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",True Explore Sci
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/trueexploresci/chunks.m3u8?nimblesessionid=40317903&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6NTU6MTUgUE0maGFzaF92YWx1ZT1MNWZoaHBoYlVVMmZJckNIenBTMFBRPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIz
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",True Explore Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/trueexplorewild/chunks.m3u8?nimblesessionid=40317924&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6NTU6NDYgUE0maGFzaF92YWx1ZT1uVlhlR2lSTG1LM3RRa200TTNIaytnPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTI0
 
 
 
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",True Film 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/truefilm1/chunks.m3u8?nimblesessionid=40317959&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6NTY6MzAgUE0maGFzaF92YWx1ZT0wSjFqRCtERmxnUkdjVXVpem8rd3VBPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE4
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",True Film 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/truefilm2/chunks.m3u8?nimblesessionid=40317993&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6NTc6MDMgUE0maGFzaF92YWx1ZT03UVVKL0xrc3hhanhuZS9wOUIyeDlBPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE4
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",True Film Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/truefilmasia/chunks.m3u8?nimblesessionid=40318019&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6NTc6MzAgUE0maGFzaF92YWx1ZT1QY2ozdHQzQk9nZytmdDVwcGlkeURRPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIx
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",True Movie Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/truemoviehits/chunks.m3u8?nimblesessionid=40318064&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6NTg6MDggUE0maGFzaF92YWx1ZT1yZkwxMTF3S3A2SU02bVFvNnNTWXp3PT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIy
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",True Premier Football 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/epl1_sd/chunks.m3u8?nimblesessionid=40318105&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6NTg6NDIgUE0maGFzaF92YWx1ZT1LUUlPSHdyQy9kc01FOWNId3N3MUNnPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE2
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="", True Premier Football 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/epl3/chunks.m3u8?nimblesessionid=40318162&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDg6NTk6MjYgUE0maGFzaF92YWx1ZT1RZjFCYnByNmVWbENibjFYaHYyZ21BPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTEz
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",True Premier Football 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/epl4/chunks.m3u8?nimblesessionid=40318215&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MDA6MDUgUE0maGFzaF92YWx1ZT1hbWxsc3VDQTVJa0RRQlFYcjdTK2NnPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTEz
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",True Series
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/trueseries/chunks.m3u8?nimblesessionid=40318275&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MDA6NTggUE0maGFzaF92YWx1ZT1QZFIreXMyRlBjMmZmVmJnOTFFeEVRPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE5
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",True Spark Play
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/truesparkplay/chunks.m3u8?nimblesessionid=40318326&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MDE6MjcgUE0maGFzaF92YWx1ZT1TVEFZbHdva2ZqK1BmcUh2NGEybGNBPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIy
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",True Tennis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/truetennis/chunks.m3u8?nimblesessionid=40318429&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MDI6MzUgUE0maGFzaF92YWx1ZT0wenh5MkxERDZ4S0N3MHdHeE1ZQUV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE5
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",True Thai Film
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/truethaifilm/chunks.m3u8?nimblesessionid=40318457&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MDM6MDggUE0maGFzaF92YWx1ZT1qMFBwOGd4ZlpBUkZEVUoyTExrRlB3PT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIx
 
 
 
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",True X-Zyte
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/truex-zyte/chunks.m3u8?nimblesessionid=40318492&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MDM6NDEgUE0maGFzaF92YWx1ZT1SWEJaa1ZUTVppU1dKV0F0d1BXOW5RPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE5
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",TyC Sports Internacional
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/tycsports/chunks.m3u8?nimblesessionid=40318543&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MDQ6MjIgUE0maGFzaF92YWx1ZT1MQ2pNbTVLQU1kSUMwRExSVThqcEJBPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE4
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",UNIVERSO [USA]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/universo/chunks.m3u8?nimblesessionid=40318596&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MDQ6NTkgUE0maGFzaF92YWx1ZT13cjQzZHVXOEFGVnkzTyt0T2d4czNBPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE3
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Volleyball 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/volleyball1/chunks.m3u8?nimblesessionid=40318650&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MDU6NDcgUE0maGFzaF92YWx1ZT1IMm4waUpNVFJLeXlpMDdxU05ZQWZBPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIw
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Volleyball 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/volleyball2/chunks.m3u8?nimblesessionid=40318698&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MDY6MjEgUE0maGFzaF92YWx1ZT1Zb00rQzNvLy85a0lYU3U5NjVQY3lRPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIw
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Warner TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/warnertv/chunks.m3u8?nimblesessionid=40318792&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MDc6MjggUE0maGFzaF92YWx1ZT1uelprbG04MHFrY25UeTVRR2doeXp3PT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE3
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Yunnan International
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/yunnan-international/chunks.m3u8?nimblesessionid=40318864&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MDg6MDcgUE0maGFzaF92YWx1ZT16eGNvVWN1SHVwdTlkNWx0cWJVS3RRPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTI5
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",beIN SPORTS Max 2 Turkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/beinmax2tr/chunks.m3u8?nimblesessionid=40318922&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MDg6NTAgUE0maGFzaF92YWx1ZT1DdnpRWUd2OU1DWDVCMXlVcUJ4VGJBPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE5
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",beIN Sports 1 France
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/beinsport1fr/chunks.m3u8?nimblesessionid=40318970&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MDk6MjQgUE0maGFzaF92YWx1ZT1zYVdBOWJGbEI5KzBkM3c4M244aFR3PT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIx
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",beIN Sports 1 Turkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/beinsports1tu/chunks.m3u8?nimblesessionid=40319027&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MTA6MDMgUE0maGFzaF92YWx1ZT04VytYN0xWOUxwWTB0a0JpdVdNMUhnPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIy
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",beIN Sports 10 Max
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/beinmax10fr/chunks.m3u8?nimblesessionid=40319070&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MTA6NTAgUE0maGFzaF92YWx1ZT1WeU40bFJNZDBYSjZhVTdLdVYzZmFnPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIw
 
 
 
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",beIN Sports 2 France
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/beinsport2fr/chunks.m3u8?nimblesessionid=40319103&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MTE6MjIgUE0maGFzaF92YWx1ZT1EUWhzR2dxV0o0SlJSRzZvZkY0Q0ZnPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIx
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",beIN Sports 2 Turkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/beinsports2tu/chunks.m3u8?nimblesessionid=40319175&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MTI6MjIgUE0maGFzaF92YWx1ZT1rVnhFNXpXd0Jjby9VWUpKckdobHp3PT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIy
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",beIN Sports 3 France
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/beinsport3fr/chunks.m3u8?nimblesessionid=40319210&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MTI6NTcgUE0maGFzaF92YWx1ZT1EZHl0NC9PTHV6WVRmNnJMSGdDWnZBPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIx
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",beIN Sports 4 Max
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/beinmax4fr/chunks.m3u8?nimblesessionid=40319255&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MTM6NDcgUE0maGFzaF92YWx1ZT1JWDR0aUROamlzeUJ4NU5STXJXNWV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE5
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",beIN Sports 7 Max
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/beinmax7fr/chunks.m3u8?nimblesessionid=40319296&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MTQ6MzQgUE0maGFzaF92YWx1ZT1MOFZRWEliZGI3SzFJQXZjclZrc0ZRPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE5
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",beIN Sports 8 Max
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/beinmax8fr/chunks.m3u8?nimblesessionid=40319333&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MTU6MDMgUE0maGFzaF92YWx1ZT00WGhRWUdzenlsVlg5Q01VckJBOUVnPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE5
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",beIN Sports 9 Max
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/beinmax9fr/chunks.m3u8?nimblesessionid=40319380&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MTU6NDEgUE0maGFzaF92YWx1ZT1ZVTZ5UW9kV1pyVlhWZ2NBNG1nYnNBPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE5
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",cartoonito
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/cartoonito/chunks.m3u8?nimblesessionid=40319416&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MTY6MTAgUE0maGFzaF92YWx1ZT1Bd3NVaUxrOE54a3JHNHFjVGZBdUpBPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE5
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",iQIYI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/iqiyi/chunks.m3u8?nimblesessionid=40319449&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MTY6NDMgUE0maGFzaF92YWx1ZT1ENXlUTUFkRUJpNjljZ0pVQmZzQk1BPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE0
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",one31
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/one31/chunks.m3u8?nimblesessionid=40319517&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MTc6MzEgUE0maGFzaF92YWx1ZT1xN0toQ2ZGVnU1eGUyNGMyNmYvemNnPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE0
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",sportdigital
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/sportdigital/chunks.m3u8?nimblesessionid=40319549&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MTg6MDAgUE0maGFzaF92YWx1ZT00eDZJcGRQSHRnTmpHWjZLcGJ2QlpBPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIx
 
 
 
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",truesports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/tsp1/chunks.m3u8?nimblesessionid=40319582&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MTg6MjggUE0maGFzaF92YWx1ZT1jTW9XUUwvOWF4MDZXVkVsQ0hqalJRPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTEz
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",truesports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/tsp2/chunks.m3u8?nimblesessionid=40319624&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MTk6MDIgUE0maGFzaF92YWx1ZT1kS3hQemlKalkwcnZHbnJZZjlmTkZnPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTEz
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",truesports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/tsp3/chunks.m3u8?nimblesessionid=40319656&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MTk6MjggUE0maGFzaF92YWx1ZT11WmRDWlU0R0hlSnZJMktFd0RPVjJ3PT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTEz
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",truesports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/tsp4/chunks.m3u8?nimblesessionid=40319687&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MTk6NTkgUE0maGFzaF92YWx1ZT0xclNabHVUVCtJaHJ3dzRvSHVUQit3PT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTEz
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",truesports 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/tsp5/chunks.m3u8?nimblesessionid=40319723&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MjA6MzQgUE0maGFzaF92YWx1ZT1GWjM3c2F6K25VZ3FwdTVzdFZWTVFRPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTEz
 
 
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",truesports 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/tsp7/chunks.m3u8?nimblesessionid=40319764&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MjE6MDQgUE0maGFzaF92YWx1ZT1JRTdPUDVKWEF0alpIazJQRmQycUZBPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTEz
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",tvN MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/tvn-movies/chunks.m3u8?nimblesessionid=40319792&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MjE6MzUgUE0maGFzaF92YWx1ZT1RMVVscUpycWFGYTE3QURWQldzUU5nPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE5
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",tvN | Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/tvn-indonesia/chunks.m3u8?nimblesessionid=40319829&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MjI6MDcgUE0maGFzaF92YWx1ZT14UU05RWkvQ1J4bmxFbitvRkFWTFVBPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIy
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",ช่อง 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/ch3hd/chunks.m3u8?nimblesessionid=40319858&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MjI6NDMgUE0maGFzaF92YWx1ZT1SZzM1L0xqd2F0b1V1K1JxWmRxYlJBPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE0
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",ช่อง 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/ch5hd/chunks.m3u8?nimblesessionid=40319913&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MjM6MTkgUE0maGFzaF92YWx1ZT1iT04wbWNLUGhLaHVheU9RLzhqTVh3PT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE0
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",ช่อง 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/ch7hd/chunks.m3u8?nimblesessionid=40319956&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MjM6NTEgUE0maGFzaF92YWx1ZT1UU2cxODFBbHN2dzhUREFJWTF4eXFBPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE0
+
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",ทรู ปลูกปัญญา
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/knowledge-tank/chunks.m3u8?nimblesessionid=40319990&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MjQ6MjMgUE0maGFzaF92YWx1ZT1sajhhbUpnaFQrOEJKUTlDeHdwRkxBPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIz
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",ทรูไอดี สปอร์ต
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/trueidsports1/chunks.m3u8?nimblesessionid=40320015&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MjQ6NTUgUE0maGFzaF92YWx1ZT1yeGhVdjFoLytFWkRmeXB2dEhwR3lRPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIy
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",บีอินสปอตส์ 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/bein1/chunks.m3u8?nimblesessionid=40320063&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MjU6NDIgUE0maGFzaF92YWx1ZT1zSDRjeWtsbFZtQUNiSWJiMGhSMy9RPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE0
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",บีอินสปอตส์ 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/bein2/chunks.m3u8?nimblesessionid=40320096&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MjY6MTUgUE0maGFzaF92YWx1ZT1ZNTBYRThHSUgxNXRqa3Z5eUVhV1pRPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE0
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",บีอินสปอตส์ 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/bein3/chunks.m3u8?nimblesessionid=40320119&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MjY6NDUgUE0maGFzaF92YWx1ZT1oeXBqYXZ2a3RRdkU1OGRUdWY5d2JBPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE0
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",บีอินสปอตส์ 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/bein4/chunks.m3u8?nimblesessionid=40320151&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6Mjc6MTMgUE0maGFzaF92YWx1ZT02T2JYaVgyQ1FwSnc0TUdVa2VGL0hRPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE0
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",บีอินสปอตส์ 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/bein5/chunks.m3u8?nimblesessionid=40320170&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6Mjc6NDUgUE0maGFzaF92YWx1ZT1jQ2lqVVhJTmRobGNESnVDQ254b3ZnPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE0
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",บีอินสปอตส์ 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/bein6/chunks.m3u8?nimblesessionid=40320188&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6Mjg6MTIgUE0maGFzaF92YWx1ZT1VcUNBdW1lTE1CaHN2Qnh6SHBqbWpRPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE0
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",บีอินสปอตส์ 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/bein7/chunks.m3u8?nimblesessionid=40320215&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6Mjg6NTEgUE0maGFzaF92YWx1ZT1wT1NLZm9nQ0pTTjBEeE5GOS83VVlBPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE0
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",บีอินสปอตส์ 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/bein8/chunks.m3u8?nimblesessionid=40320248&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6Mjk6MjUgUE0maGFzaF92YWx1ZT1od2xXYjV0YjcySHZXL01TRWNnYitBPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE0
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",บีอินสปอตส์ 1 (617)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/bein1_617/chunks.m3u8?nimblesessionid=40320277&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MzA6MTMgUE0maGFzaF92YWx1ZT1OUXNDdHNUa1htM1hVLzlGc3UrTFV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE4
+
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",มังกร
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/mangorn/chunks.m3u8?nimblesessionid=40320319&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MzE6MDUgUE0maGFzaF92YWx1ZT1MN1Nxekw1NlorVVVaUzhxM2NURTlRPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE2
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",สำรวจโลก
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/samrujlok/chunks.m3u8?nimblesessionid=40320351&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MzE6MzYgUE0maGFzaF92YWx1ZT1aODNmZEs3NnhRc0p0aXJITy9nakhnPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE4
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",ไทยรัฐทีวี
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/thairathtv/chunks.m3u8?nimblesessionid=40320384&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MzI6MTEgUE0maGFzaF92YWx1ZT0yWmxnWDBlUHJRNXE4WGE5cGNvSWVBPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE5
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Asian Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
 
 
 
