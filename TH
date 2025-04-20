@@ -3,21 +3,21 @@
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",AMC US
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
-https://streamamg-fa.akamaiz.com/dookeela/amc/chunks.m3u8?nimblesessionid=40309184&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6MjI6NDAgUE0maGFzaF92YWx1ZT1SQ0t1eFJvNzczQUd1aUFaMCtra2R3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTEy
+https://streamamg-fa.akamaiz.com/dookeela/amc/chunks.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",AXN TH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
-https://streamamg-fa.akamaiz.com/dookeela/axn/chunks.m3u8?nimblesessionid=40309228&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6MjM6MDYgUE0maGFzaF92YWx1ZT0wYnBYMEZKRU5idHdvT3hrdWU0RWFRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTEy
+https://streamamg-fa.akamaiz.com/dookeela/axn/chunks.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="", Alure Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://streamamg-fa.akamaiz.com/dookeela/alure-channel/chunks.m3u8?nimblesessionid=40309046&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6MjE6NDMgUE0maGFzaF92YWx1ZT04SXpUUk1zcVhWVW5sdkF6R2t5cDFnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIy
+https://streamamg-fa.akamaiz.com/dookeela/alure-channel/chunks.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Animal Planet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
-https://streamamg-fa.akamaiz.com/dookeela/animal-planet/chunks.m3u8?nimblesessionid=40309279&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6MjM6MzcgUE0maGFzaF92YWx1ZT1ZVGVOYkwxRUxKNW1UT05XazRwTDRRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIy
+https://streamamg-fa.akamaiz.com/dookeela/animal-planet/chunks.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Animal Show
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
@@ -1075,7 +1075,7 @@ https://streamamg-fa.akamaiz.com/dookeela/samrujlok/chunks.m3u8?nimblesessionid=
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",ไทยรัฐทีวี
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
-https://streamamg-fa.akamaiz.com/dookeela/thairathtv/chunks.m3u8?nimblesessionid=40320384&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDk6MzI6MTEgUE0maGFzaF92YWx1ZT0yWmxnWDBlUHJRNXE4WGE5cGNvSWVBPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWU2OWQ0ZWM3NDVjZjA3NGY0OWY4OTFhN2E1OWI1ZmYmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE5
+https://streamamg-fa.akamaiz.com/dookeela/thairathtv/chunks.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Asian Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
