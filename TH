@@ -1,5 +1,12 @@
 
 
+#EXTINF:-1 tvg-name="True Asian More" tvg-id="" tvg-logo="https://i.imgur.com/ZeVx8Gc.png" group-title="True Visions",True Asian More  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000  
+#EXTVLCOPT:http-referrer=https://streaming.trueid.net/  
+https://streamamg-fa.akamaiz.com/dookeela/trueasianmore/chunks.m3u8?nimblesessionid=40919306&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMS8yMDI1IDE6MzQ6MTQgUE0maGFzaF92YWx1ZT1zNWNhcTFFMUM2NXBEWWxwclJjU2xnPT0mdmFsaWRtaW51dGVzPTEmaWQ9NTJmOTA2YWM5MWM0NGZhMWQwMDIxOTRhY2FhN2IxNGQmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIy  
+
+
+
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",AMC US
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
