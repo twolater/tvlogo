@@ -4176,6 +4176,23 @@
 ||cdn.taboola.com.cn^
 ||cdn.taboolasyndication.com^
 
+||ngowheng888.com^
+||8xbet237.com^
+||ibit.ly^
+||goal6.co^
+||8xbet237.com^
+||365kub.at^
+||ibit.ly^
+||bankeela1.com^
+||ngowheng888.com^
+||cutt.ly^
+||zianstep.co^
+||x5betnn.com^
+||ambking99.live^
+||lin.ee^
+
+
+
 
 !--------------------------百度----------------------------------
 @@||bdstatic.com/static/common/widget/ui/admanager/$script,domain=image.baidu.com
